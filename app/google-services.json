@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "114659664711",
+    "project_id": "explore-bandoeng",
+    "storage_bucket": "explore-bandoeng.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114659664711:android:94a2643ccc39095360e262",
+        "android_client_info": {
+          "package_name": "com.becek39studio.explorebandoeng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114659664711-550gfnverqip4pg5t14mgskc3mfqlidt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdnsDOAwecZNZ5b6KamWWTnQhQ7AckAUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114659664711-550gfnverqip4pg5t14mgskc3mfqlidt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114659664711:android:df42cc5216be223760e262",
+        "android_client_info": {
+          "package_name": "com.giangifarly.explorebandung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114659664711-550gfnverqip4pg5t14mgskc3mfqlidt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdnsDOAwecZNZ5b6KamWWTnQhQ7AckAUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114659664711-550gfnverqip4pg5t14mgskc3mfqlidt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
